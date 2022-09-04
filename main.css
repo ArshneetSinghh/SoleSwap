@@ -577,8 +577,6 @@ margin: 20px 15px 0 0}
 
 
 #blogs{
-padding-top: 2px;
-padding-bottom: 27px;
   text-align: center;
 }
 
@@ -639,4 +637,20 @@ padding-bottom: 27px;
 }
 .card-5:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+
+#kinchat{
+  font-family: Roboto;
+margin-left: 10%;
+margin-right: 10%;
+  font-size: 19PX;
+margin-bottom: 20PX
+
+}
+
+#kinchat h1{
+  font-size: 3rem;
+    color: #637bfb;
+    text-align: center;
 }
